@@ -41,4 +41,17 @@ git clone https://github.com/RaelMorais/python.git
 <h1>‼️Rodando o script‼️</h1>
 
 
+<h1>Requisitos</h1>
+
+<p>Python 3.x</p>
+<p>
+Biblioteca numpy
+```
+pip install numpy
+
+```
+  
+</p>
+
+
 
