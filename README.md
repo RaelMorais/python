@@ -62,8 +62,11 @@ python --version
 Sua senha é: 53434
 ```
 </p>
-📌Se o Python não estiver instalado, você pode baixá-lo do [site oficial do Python](https://www.python.org/downloads/).<br>
-📌Para fazer este script, ultilizei o [Anaconda](https://git-scm.com/downloads).
+📌Se o Python não estiver instalado, você pode baixá-lo do       
+
+[site oficial do Python](https://www.python.org/downloads/).<br>
+📌Para fazer este script, ultilizei o  
+[Anaconda](https://git-scm.com/downloads).
 
 
 <h1>⚠️Requisitos⚠️</h1>
